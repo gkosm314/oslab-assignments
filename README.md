@@ -1,5 +1,5 @@
 # oslab-assignments
-This repo contains solutions for assignments of the course _Opearating Systems Laboratory_ course at National Technical University of Athens.
+This repo contains solutions for assignments of the _Opearating Systems Laboratory_ course at National Technical University of Athens.
 
 ## Exercise 1
 This exercise contained a number of challenges that we had to solve using different operating system concepts. Concepts needed to solve the challenges included:
