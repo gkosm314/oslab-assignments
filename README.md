@@ -2,7 +2,7 @@
 This repo contains solutions for assignments of the _Opearating Systems Laboratory_ course at National Technical University of Athens (NTUA).
 
 ## Exercise 1
-This exercise contained a number of system challenges that we had to solve using different operating system concepts. Concepts utilize to "solve" the challenges include:
+This exercise contained a number of system challenges that we had to solve using different operating system concepts. Concepts we utilized to "solve" the challenges include:
 * signals
 * linking
 * I/O streams
